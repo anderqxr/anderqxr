@@ -1,4 +1,4 @@
-#  Hello! I`m Anderson França.
+#  Hi, I'm Anderson França
 
 
 ## 🚀 Technologies
