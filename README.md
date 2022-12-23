@@ -1,5 +1,5 @@
 #  Hello! I`m Anderson França.
-##  < anderqxr >
+![Snake animation](https://github.com/anderqxr/anderqxr/blob/output/github-contribution-grid-snake.svg)
 
 ## 🚀 Technologies
 
